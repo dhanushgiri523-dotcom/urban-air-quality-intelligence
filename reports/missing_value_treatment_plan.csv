@@ -1,0 +1,17 @@
+Column,Missing_Count,Missing_Percentage,Treatment_Decision
+City,0,0.0,Retain as-is
+Date,0,0.0,Retain as-is
+PM2.5,4598,15.57,Investigate city/time patterns before imputation
+PM10,11140,37.72,Retain unless a justified method is available
+NO,3582,12.13,Investigate city/time patterns before imputation
+NO2,3585,12.14,Investigate city/time patterns before imputation
+NOx,4185,14.17,Investigate city/time patterns before imputation
+NH3,10328,34.97,Retain unless a justified method is available
+CO,2059,6.97,Evaluate limited imputation with validation
+SO2,3854,13.05,Investigate city/time patterns before imputation
+O3,4022,13.62,Investigate city/time patterns before imputation
+Benzene,5623,19.04,Investigate city/time patterns before imputation
+Toluene,8041,27.23,Retain unless a justified method is available
+Xylene,18109,61.32,Retain missing; avoid blanket imputation
+AQI,4681,15.85,Retain missing; do not invent AQI values
+AQI_Bucket,4681,15.85,Retain missing; do not invent AQI values

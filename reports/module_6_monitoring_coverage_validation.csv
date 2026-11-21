@@ -1,0 +1,27 @@
+City,Valid_AQI_Days,Pollutants_Available,Pollutant_Monitoring_Coverage_Percent,Coverage_Status
+Ahmedabad,1334,12,60.867761738841885,Moderate
+Delhi,1999,12,95.57408329185333,Relatively High
+Patna,1459,12,75.70864729099391,Relatively High
+Gurugram,1453,12,68.27972999801469,Moderate
+Lucknow,1893,12,75.73419611747137,Relatively High
+Talcher,698,12,67.92792792792794,Moderate
+Jorapokhar,771,12,44.34702024522383,Limited
+Guwahati,495,12,83.08432934926958,Relatively High
+Kolkata,754,12,92.87469287469287,Relatively High
+Brajrajnagar,713,12,65.96481876332622,Moderate
+Amritsar,1126,12,88.82063882063882,Relatively High
+Bhopal,278,12,72.66435986159169,Moderate
+Jaipur,1094,12,89.70676241771395,Relatively High
+Visakhapatnam,1171,12,89.74008207934334,Relatively High
+Chennai,1884,12,79.04844864775178,Relatively High
+Kochi,158,12,82.09876543209876,Relatively High
+Mumbai,775,12,51.33150821304131,Moderate
+Hyderabad,1880,12,94.4707544034563,Relatively High
+Chandigarh,299,12,98.9857456140351,Relatively High
+Amaravati,841,12,91.50017525411846,Relatively High
+Bengaluru,1910,12,86.50240584038494,Relatively High
+Ernakulam,153,12,86.7798353909465,Relatively High
+Aizawl,111,12,88.5693215339233,Relatively High
+Thiruvananthapuram,1052,12,72.38459232613909,Moderate
+Shillong,205,12,76.80107526881721,Relatively High
+Coimbatore,344,12,86.85233160621762,Relatively High

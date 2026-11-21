@@ -1,0 +1,17 @@
+,Missing_Count,Missing_Percentage,Data_Status
+Xylene,18109,61.32,High Missingness
+PM10,11140,37.72,High Missingness
+NH3,10328,34.97,High Missingness
+Toluene,8041,27.23,Moderate Missingness
+Benzene,5623,19.04,Moderate Missingness
+AQI,4681,15.85,Moderate Missingness
+AQI_Bucket,4681,15.85,Moderate Missingness
+PM2.5,4598,15.57,Moderate Missingness
+NOx,4185,14.17,Moderate Missingness
+O3,4022,13.62,Moderate Missingness
+SO2,3854,13.05,Moderate Missingness
+NO2,3585,12.14,Moderate Missingness
+NO,3582,12.13,Moderate Missingness
+CO,2059,6.97,Moderate Missingness
+Date,0,0.0,Complete
+City,0,0.0,Complete

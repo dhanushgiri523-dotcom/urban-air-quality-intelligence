@@ -1,0 +1,7 @@
+Season_1,Season_2,Median_1,Median_2,Median_Difference,Rank_Biserial_Effect
+Winter,Post-Monsoon,171.0,154.0,17.0,0.07534725951889643
+Winter,Pre-Monsoon,171.0,115.0,56.0,0.36347221265806096
+Winter,Monsoon,171.0,89.0,82.0,0.5736162243187801
+Post-Monsoon,Pre-Monsoon,154.0,115.0,39.0,0.26611006169808893
+Post-Monsoon,Monsoon,154.0,89.0,65.0,0.4777671175648617
+Pre-Monsoon,Monsoon,115.0,89.0,26.0,0.26669349561435296

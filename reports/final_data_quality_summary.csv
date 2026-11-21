@@ -1,0 +1,12 @@
+Metric,Value
+Total Records,29531
+Total Columns,21
+Exact Duplicate Rows,0
+Duplicate City-Date Records,0
+Missing Cells,88488
+Missing AQI Records,4681
+AQI Above 500,543
+Rows With Negative Pollutants,0
+Rows With Infinite Pollutants,0
+Rows With Missing Pollutants,23180
+Unique Cities,26

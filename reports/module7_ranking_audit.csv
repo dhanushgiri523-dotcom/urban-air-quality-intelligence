@@ -1,0 +1,6 @@
+Rank_Column,Missing_Ranks,Unique_Ranks,Minimum_Rank,Maximum_Rank
+Baseline_Rank,0,26,1,26
+Equal_Weight_Rank,0,26,1,26
+AQI_Priority_Rank,0,25,1,26
+Pollution_Exposure_Priority_Rank,0,26,1,26
+Persistence_Priority_Rank,0,25,1,26

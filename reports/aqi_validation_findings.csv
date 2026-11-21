@@ -1,0 +1,8 @@
+Finding,Result
+Total category mismatches,543
+Mismatches above AQI 500,543
+Mismatches at or below AQI 500,0
+Original category of mismatches,Severe
+Maximum AQI observed,2049
+AQI validation threshold,500
+Treatment decision,Preserve and flag; do not automatically modify

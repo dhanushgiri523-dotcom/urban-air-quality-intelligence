@@ -1,0 +1,27 @@
+City,Baseline_Rank,Equal_Weight_Rank_Change,AQI_Priority_Rank_Change,Pollution_Exposure_Priority_Rank_Change,Persistence_Priority_Rank_Change,Mean_Absolute_Rank_Change,Maximum_Absolute_Rank_Change,Ranking_Stability_Class
+Kolkata,9,0,-2,0,-1,0.75,2,Highly Stable
+Guwahati,8,-1,1,0,-1,0.75,1,Highly Stable
+Jorapokhar,7,1,0,0,2,0.75,2,Highly Stable
+Kochi,16,-2,0,0,-1,0.75,2,Highly Stable
+Amritsar,11,-1,0,-1,0,0.5,1,Highly Stable
+Brajrajnagar,10,1,0,1,0,0.5,1,Highly Stable
+Hyderabad,18,0,0,-1,1,0.5,1,Highly Stable
+Chennai,15,1,0,0,1,0.5,1,Highly Stable
+Delhi,2,0,0,0,-1,0.25,1,Highly Stable
+Visakhapatnam,14,1,0,0,0,0.25,1,Highly Stable
+Thiruvananthapuram,24,0,-1,0,0,0.25,1,Highly Stable
+Mumbai,17,0,0,1,0,0.25,1,Highly Stable
+Aizawl,23,0,1,0,0,0.25,1,Highly Stable
+Chandigarh,19,0,0,0,-1,0.25,1,Highly Stable
+Ahmedabad,1,0,0,0,0,0.0,0,Highly Stable
+Gurugram,4,0,0,0,0,0.0,0,Highly Stable
+Lucknow,5,0,0,0,0,0.0,0,Highly Stable
+Talcher,6,0,0,0,0,0.0,0,Highly Stable
+Patna,3,0,0,0,0,0.0,0,Highly Stable
+Jaipur,13,0,0,0,0,0.0,0,Highly Stable
+Bhopal,12,0,0,0,0,0.0,0,Highly Stable
+Amaravati,20,0,0,0,0,0.0,0,Highly Stable
+Ernakulam,22,0,0,0,0,0.0,0,Highly Stable
+Bengaluru,21,0,0,0,0,0.0,0,Highly Stable
+Shillong,25,0,0,0,0,0.0,0,Highly Stable
+Coimbatore,26,0,0,0,0,0.0,0,Highly Stable

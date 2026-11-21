@@ -1,0 +1,6 @@
+Module_Section,Expected_Outputs,Available_Outputs,Unavailable_Outputs,Availability_Percent
+7.1 City-Cluster Bootstrap,1,1,0,100.0
+7.2 Temporal Dependence,3,3,0,100.0
+7.3 Pollutant Association,3,3,0,100.0
+7.4 Sensitivity Analysis,4,4,0,100.0
+7.5 Risk Ranking Validation,3,3,0,100.0

@@ -1,0 +1,7 @@
+Series,Lag,Ljung_Box_Statistic,P_Value,Conclusion_At_5_Percent
+Original AQI,6,65.63575289730859,3.1990394803778883e-12,Evidence of serial correlation
+Original AQI,12,129.20441907689295,8.913898588048928e-22,Evidence of serial correlation
+Original AQI,18,175.3775895403332,7.87566304187436e-28,Evidence of serial correlation
+Differenced AQI,6,17.901575675005724,0.006482927715364407,Evidence of serial correlation
+Differenced AQI,12,53.68713949032505,3.1076024295486637e-07,Evidence of serial correlation
+Differenced AQI,18,72.53334541135067,1.6763789626489304e-08,Evidence of serial correlation

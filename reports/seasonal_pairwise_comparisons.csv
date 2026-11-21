@@ -1,0 +1,7 @@
+Season_1,Season_2,U_Statistic,P_Value,Adjusted_P_Value,Significant
+Winter,Post-Monsoon,12839364.0,2.0774456454538972e-10,2.0774456454538972e-10,Significant
+Winter,Pre-Monsoon,30086219.0,1.1018331624117262e-287,2.2036663248234525e-287,Significant
+Winter,Monsoon,37886588.0,0.0,0.0,Significant
+Post-Monsoon,Pre-Monsoon,17117127.5,1.1201126358327084e-116,1.3441351629992499e-116,Significant
+Post-Monsoon,Monsoon,21798709.0,0.0,0.0,Significant
+Pre-Monsoon,Monsoon,34532089.5,3.590467013228686e-173,5.385700519843029e-173,Significant

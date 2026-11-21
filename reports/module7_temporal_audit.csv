@@ -1,0 +1,3 @@
+Analysis,Rows,Columns,Missing_Values,Required_Columns_Available
+City-Level Temporal Dependence,26,8,0,True
+Annual Temporal Dependence,98,5,2,True

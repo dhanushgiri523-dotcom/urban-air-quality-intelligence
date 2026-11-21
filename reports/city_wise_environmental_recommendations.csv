@@ -1,0 +1,27 @@
+City,Environmental_Risk_Score,Risk_Class,Recommendations
+Ahmedabad,99.42307692307692,Very High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Delhi,96.53846153846155,Very High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Patna,92.5,Very High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Gurugram,86.15384615384615,Very High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Lucknow,81.92307692307692,Very High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Talcher,80.0,Very High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Jorapokhar,70.19230769230771,High,Review extreme AQI records and strengthen monitoring; Improve pollutant monitoring coverage
+Guwahati,69.61538461538461,High,Prioritize investigation of recurring high-AQI days; Review extreme AQI records and strengthen monitoring; Investigate repeated multi-year pollution hotspots
+Kolkata,69.13461538461537,High,Prioritize investigation of recurring high-AQI days
+Brajrajnagar,59.519230769230774,Moderate,Continue monitoring and periodic environmental assessment
+Amritsar,55.96153846153846,Moderate,Review extreme AQI records and strengthen monitoring
+Bhopal,52.21153846153846,Moderate,Continue monitoring and periodic environmental assessment
+Jaipur,49.71153846153846,Moderate,Continue monitoring and periodic environmental assessment
+Visakhapatnam,43.75,Moderate,Continue monitoring and periodic environmental assessment
+Chennai,42.01923076923077,Moderate,Continue monitoring and periodic environmental assessment
+Kochi,41.05769230769231,Moderate,Continue monitoring and periodic environmental assessment
+Mumbai,38.55769230769231,Low,Continue monitoring and periodic environmental assessment
+Hyderabad,36.34615384615385,Low,Review extreme AQI records and strengthen monitoring
+Chandigarh,36.25,Low,Continue monitoring and periodic environmental assessment
+Amaravati,29.134615384615383,Low,Continue monitoring and periodic environmental assessment
+Bengaluru,27.01923076923077,Low,Continue monitoring and periodic environmental assessment
+Ernakulam,21.634615384615387,Low,Continue monitoring and periodic environmental assessment
+Aizawl,19.326923076923077,Very Low,Continue monitoring and periodic environmental assessment
+Thiruvananthapuram,18.942307692307693,Very Low,Continue monitoring and periodic environmental assessment
+Shillong,17.211538461538463,Very Low,Continue monitoring and periodic environmental assessment
+Coimbatore,15.865384615384615,Very Low,Continue monitoring and periodic environmental assessment

@@ -1,0 +1,2 @@
+Expected_Months,Observed_Months,Missing_Months,Continuous_Monthly_Series,Minimum_City_Observations,Maximum_City_Observations,Minimum_Cities_Reporting,Maximum_Cities_Reporting
+67,67,0,True,24,782,2,26

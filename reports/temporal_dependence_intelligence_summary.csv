@@ -1,0 +1,8 @@
+Metric,Value
+Cities With Calculated Lag-1 Correlation,26.0
+Cities With Positive Lag-1 Correlation,26.0
+Cities With Negative Lag-1 Correlation,0.0
+Average City Lag-1 Spearman Correlation,0.8556364254188605
+Median City Lag-1 Spearman Correlation,0.8584342345748951
+Total Consecutive-Day Pairs,24343.0
+Cities Significant After FDR,26.0

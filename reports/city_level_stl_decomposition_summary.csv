@@ -1,0 +1,27 @@
+City,Monthly_Observations,Seasonal_Strength,Trend_Strength,Residual_Variance,Decomposition_Status
+Ahmedabad,67,,,,Insufficient or incomplete series
+Aizawl,5,,,,Insufficient or incomplete series
+Amaravati,33,,,,Insufficient or incomplete series
+Amritsar,42,0.6041612036726877,0.32733442047456596,1292.2198350298604,Completed
+Bengaluru,65,0.4649238906308064,0.4524197564589154,236.22280892672688,Completed
+Bhopal,11,,,,Insufficient or incomplete series
+Brajrajnagar,31,,,,Insufficient or incomplete series
+Chandigarh,11,,,,Insufficient or incomplete series
+Chennai,65,0.02655508108747262,0.4400906299007429,933.7212927750511,Completed
+Coimbatore,13,,,,Insufficient or incomplete series
+Delhi,67,0.864579681446292,0.5236814856769301,1174.1909991934954,Completed
+Ernakulam,7,,,,Insufficient or incomplete series
+Gurugram,55,0.6867171286437876,0.35828237079871683,2130.895811027174,Completed
+Guwahati,18,,,,Insufficient or incomplete series
+Hyderabad,65,0.5476416334042409,0.5564843143099236,403.4376924148774,Completed
+Jaipur,38,0.7513154270470903,0.6065461544913847,340.84197655289074,Completed
+Jorapokhar,40,,,,Insufficient or incomplete series
+Kochi,7,,,,Insufficient or incomplete series
+Kolkata,28,,,,Insufficient or incomplete series
+Lucknow,65,0.9577706425255267,0.643265754444647,385.3512864168771,Completed
+Mumbai,27,,,,Insufficient or incomplete series
+Patna,58,,,,Insufficient or incomplete series
+Shillong,12,,,,Insufficient or incomplete series
+Talcher,30,,,,Insufficient or incomplete series
+Thiruvananthapuram,38,0.8993715237630864,0.40937276288942304,50.05409562995909,Completed
+Visakhapatnam,49,,,,Insufficient or incomplete series

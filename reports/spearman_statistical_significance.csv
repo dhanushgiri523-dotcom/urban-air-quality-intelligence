@@ -1,0 +1,13 @@
+Pollutant,Sample_Size,Spearman_Correlation,P_Value,Significance,Relationship
+PM2.5,24172,0.8461841390260836,0.0,Statistically Significant,Positive
+PM10,17764,0.8706290871106316,0.0,Statistically Significant,Positive
+NO,24463,0.47010384130286226,0.0,Statistically Significant,Positive
+NO2,24459,0.4622951762379561,0.0,Statistically Significant,Positive
+NOx,22993,0.4846777196995578,0.0,Statistically Significant,Positive
+NH3,18314,0.36648767401618043,0.0,Statistically Significant,Positive
+CO,24405,0.5494327484816467,0.0,Statistically Significant,Positive
+SO2,24245,0.3793260248104581,0.0,Statistically Significant,Positive
+O3,24043,0.2808863703504777,0.0,Statistically Significant,Positive
+Benzene,21315,0.255393585822455,0.0,Statistically Significant,Positive
+Toluene,19024,0.367173441583267,0.0,Statistically Significant,Positive
+Xylene,9478,0.17626344128565583,5.2721455166869374e-67,Statistically Significant,Positive

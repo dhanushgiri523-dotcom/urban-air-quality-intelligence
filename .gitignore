@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local secrets
+.env
+.env.*
+
+# Raw datasets - download separately from the source
+data/raw/
+*.zip
+
+# Notebook backup
+*BEFORE_CLEANUP_BACKUP.ipynb
+
+# Temporary files
+*.tmp
+*.log

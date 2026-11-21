@@ -1,0 +1,12 @@
+Report_File,Exists
+final_environmental_risk_index_report.csv,True
+top_10_environmental_risk_cities.csv,True
+lowest_10_environmental_risk_cities.csv,True
+environmental_risk_class_summary.csv,True
+environmental_persistent_hotspot_findings.csv,True
+environmental_seasonal_risk_findings.csv,True
+extreme_pollution_executive_summary.csv,True
+extreme_pollution_city_findings.csv,True
+pollutant_specific_environmental_findings.csv,True
+city_wise_environmental_recommendations.csv,True
+environmental_intelligence_executive_summary.csv,True

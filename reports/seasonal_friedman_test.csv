@@ -1,0 +1,2 @@
+Test,Cities_Compared,Seasons,Statistic,P_Value,Significant_At_0_05
+Friedman Test,23,"Winter, Pre-Monsoon, Monsoon, Post-Monsoon",37.56585365853659,3.492579334472365e-08,True

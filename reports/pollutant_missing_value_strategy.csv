@@ -1,0 +1,13 @@
+,Valid_Records,Missing_Records,Missing_Percentage,Recommended_Strategy
+PM2.5,24933,4598,15.57,Conditional imputation
+PM10,18391,11140,37.72,City/year-specific assessment
+NO,25949,3582,12.13,Conditional imputation
+NO2,25946,3585,12.14,Conditional imputation
+NOx,25346,4185,14.17,Conditional imputation
+NH3,19203,10328,34.97,City/year-specific assessment
+CO,27472,2059,6.97,Evaluate limited imputation
+SO2,25677,3854,13.05,Conditional imputation
+O3,25509,4022,13.62,Conditional imputation
+Benzene,23908,5623,19.04,Conditional imputation
+Toluene,21490,8041,27.23,City/year-specific assessment
+Xylene,11422,18109,61.32,Retain missing; avoid blind imputation
